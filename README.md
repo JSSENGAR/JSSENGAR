@@ -14,7 +14,7 @@ I'm a full stack developer who believe in user friendly application creation and
 I write clean, reliable code that anyone can read by using best practices. People I worked with know me as a great time utilizer and effective engineer because technically I love to finish work within time. 
 
 ✉ jitendrasinghsengar@gmail.com
-☎ +919589391358
+☎ +91 9589391358
 
 
 <!---

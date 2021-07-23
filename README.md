@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jitendra Singh Sengar
 - 👀 I’m interested in Impressive APP creation.
-- 🌱 I’m currently learning .NET CORE, ANGULAR, REACT, LARAVEL...
+- 🌱 I’m currently learning latest version .NET CORE, ANGULAR, REACT, LARAVEL...
 - 💞️ I’m looking to collaborate on new idea implementation.
 - 📫 How to reach me any one can be in touch through mail.. 
 
